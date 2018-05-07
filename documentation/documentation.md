@@ -16,7 +16,7 @@ Zur ersten Inbetriebnahme der Lampe muss diese Minimum 2h am Stück betrieben we
 Die Taste F2 schaltet die Tagesbeleuchtung ein, falls sich diese durch die Automatik im Zustand AUS befindet.
 Eine erneute Betätigung der Taste F2 schaltet das Licht wieder aus.
 Das Display zeigt einen entsprechenden Hinweis.
-
+![](./images/Display_msg_002.png)
 
 ### Taste F3:
 Über die Taste F3 wird eine manuelle Bewässerung durchgeführt (noch nicht implementiert)
