@@ -15,4 +15,4 @@ Steuerung der Terrarienanlage via SIEMENS LOGO!
 * SIEMENS LOGO!POWER 24V 70W
 
 ## Documentation:
-[.documentation.md](./documentation/documentation.md)
+[Documentation](./documentation/documentation.md)
