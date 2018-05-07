@@ -10,7 +10,7 @@ Einbrennen der UV HID Metalldampflampe (Wärmelampe)
 Die Taste F1 schaltet die Steuerung in den Wartungsmodus für die Wärmelampe.
 Zur ersten Inbetriebnahme der Lampe muss diese Minimum 2h am Stück betrieben werden.
 Über die Taste F1 kann dies nach einem Austausch des Leuchtmittels erreicht werden.
-
+![](./images/Display_msg_001.png)
 
 ### Taste F2:
 Die Taste F2 schaltet die Tagesbeleuchtung ein, falls sich diese durch die Automatik im Zustand AUS befindet.
