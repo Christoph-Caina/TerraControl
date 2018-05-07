@@ -2,14 +2,14 @@
 
 ## 1 – Display und Funktionstasten
 Das LOGO! TDE verfügt über 4 Funktionstasten.
-Hinter jeder Taste steht ein spezieller Eingriff in den automatisierten Ablauf.
+Hinter jeder Taste steht ein spezieller Eingriff in den automatisierten Ablauf.  
 ![](./images/Buttonbar_F.png)
 
 ### Taste F1:
 Einbrennen der UV HID Metalldampflampe (Wärmelampe)
 Die Taste F1 schaltet die Steuerung in den Wartungsmodus für die Wärmelampe.
 Zur ersten Inbetriebnahme der Lampe muss diese Minimum 2h am Stück betrieben werden.
-Über die Taste F1 kann dies nach einem Austausch des Leuchtmittels erreicht werden.
+Über die Taste F1 kann dies nach einem Austausch des Leuchtmittels erreicht werden.  
 ![](./images/Display_msg_001.png)
 
 ### Taste F2:
@@ -25,6 +25,6 @@ Das Display zeigt einen entsprechenden Hinweis.
 
 ### Taste F4:
 Die Taste F4 schaltet die normale Display-Beleuchtung an und wieder aus.
-Die Hintergrundbeleuchtung erlischt aber auch automatisch nach 5 Sekunden
+Die Hintergrundbeleuchtung erlischt aber auch automatisch nach 5 Sekunden.  
 ![](./images/Display_msg_002.png)  
 ![](./images/Display_msg_004.png)
