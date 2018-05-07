@@ -3,7 +3,7 @@
 ## 1 – Display und Funktionstasten
 Das LOGO! TDE verfügt über 4 Funktionstasten.
 Hinter jeder Taste steht ein spezieller Eingriff in den automatisierten Ablauf.
-
+[](./images/Buttonbar_F.png)
 
 ### Taste F1:
 Einbrennen der UV HID Metalldampflampe (Wärmelampe)
