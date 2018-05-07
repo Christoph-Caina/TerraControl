@@ -12,7 +12,7 @@ Hinter jeder Taste steht ein spezieller Eingriff in den automatisierten Ablauf.
 Die Temperatur wird über 2 PT-100 Temperaturfühler vorgenommen.  
 Ist die Verbindung zu einem der Sensoren gestört, bzw. unterbrochen, befindet sich der Messwert, welchen die LOGO! ermittelt bei -50°C.  
 In diesem Fall ist von einem Verbindungsabbruch aus zu gehen, auf welchen die LOGO! mit einer entsprechenden Warnmeldung hinweist.  
-Zusätzlich kann die Wärmelampe in diesem Zustand NICHT eingeschaltet werden, um eine Überhitzung des Terrariums zu verhindern.
+Zusätzlich kann die Wärmelampe in diesem Zustand NICHT eingeschaltet werden, um eine Überhitzung des Terrariums zu verhindern.  
 ![](./images/Display_msg_001.png)
 
 ### Einbrennen der UV HID Metalldampflampe (Wärmelampe)
